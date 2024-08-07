@@ -1,8 +1,26 @@
-# QuantumAI-Climate-Projects
+**QuantumAI-Climate-Projects**
 
 Welcome to the QuantumAI-Climate-Projects repository! This repository contains four projects that leverage the power of Quantum Computing and Artificial Intelligence to address various challenges related to climate modeling, prediction, and simulation.
 
-## Projects Overview
+**Getting Started**
+
+To get started with any of the projects, navigate to the respective project folder and follow the instructions provided in the README.md file within each folder.
+
+**Prerequisites**
+
+Python 3.x
+Necessary Python libraries (see individual project requirements)
+Qiskit for quantum simulations
+
+**Installation**
+ 
+Clone the repository to your local machine:
+git clone https://github.com/yourusername/QuantumAI-Climate-Projects.git
+cd QuantumAI-Climate-Projects
+
+key libraries needed for each project: numpy, pandas, scikit-learn, qiskit
+
+**Projects Overview**
 
 ```plaintext
 QuantumAI-Climate-Projects/
@@ -38,3 +56,8 @@ QuantumAI-Climate-Projects/
     ├── data/
     │   └── cloud_data.csv
     └── README.md
+
+**Acknowledgments**
+
+Thanks to the Womanium Organisation for providing  Quantum and AI initiatives.
+
