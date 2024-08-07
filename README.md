@@ -59,4 +59,4 @@ QuantumAI-Climate-Projects/
 
 ## Acknowledgments
 
-Thanks to the Womanium Grant for supporting our Quantum and AI initiatives.
+Thanks to the Womanium Institution for supporting our Quantum and AI initiatives.
