@@ -4,6 +4,7 @@ Welcome to the QuantumAI-Climate-Projects repository! This repository contains f
 
 ## Projects Overview
 
+```plaintext
 QuantumAI-Climate-Projects/
 │
 ├── Project1_Atmospheric_Simulations/
@@ -37,21 +38,3 @@ QuantumAI-Climate-Projects/
     ├── data/
     │   └── cloud_data.csv
     └── README.md
-
-## Getting Started
-
-To get started with any of the projects, navigate to the respective project folder and follow the instructions provided in the `README.md` file within each folder.
-
-## Prerequisites
-
-- Python 3.x
-- Necessary Python libraries (see individual project requirements)
-- Qiskit for quantum simulations
-
-## Installation
-
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/QuantumAI-Climate-Projects.git
-cd QuantumAI-Climate-Projects
