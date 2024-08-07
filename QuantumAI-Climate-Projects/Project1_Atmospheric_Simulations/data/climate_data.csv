@@ -1,0 +1,6 @@
+# Sample data for climate simulations
+temperature,humidity,pressure
+15,80,1013
+20,70,1012
+25,60,1011
+

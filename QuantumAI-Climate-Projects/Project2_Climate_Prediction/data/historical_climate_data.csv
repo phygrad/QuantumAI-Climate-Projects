@@ -1,0 +1,6 @@
+# Sample preprocessed historical climate data
+temperature,humidity,pressure,future_temperature
+15,80,1013,16
+20,70,1012,21
+25,60,1011,26
+

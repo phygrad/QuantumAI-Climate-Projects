@@ -1,0 +1,6 @@
+# Sample data for battery materials
+material,property_value
+Lithium,0.5
+Nickel,0.8
+Cobalt,0.7
+
